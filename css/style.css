@@ -1,0 +1,77 @@
+
+
+.btn{
+    background: #f05f5c;
+    color: white;
+    padding: 9px 26px;
+    border-radius: 20px;
+}
+
+img{
+    max-width: 100%
+}
+
+#intro .logo{
+    width: 100px;
+    margin-top: 20px;
+    
+}
+#intro h1{
+    color: #005260; 
+    padding-top: 10px;
+}
+
+#intro p.lead{
+    color: #7d8396;    
+}
+
+#cathayslide .container{
+    height: 55vh;
+}
+
+#cathayslide .carousel-item{
+    position: relative;
+}
+
+#cathayslide carousel-item .p{
+    font color: #000000;
+}
+#cathayslide .box{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    max-width: 100%;
+    padding: 130px 100px 0px 100%;
+    background: rgba(0,0,0, .2);
+}
+
+#Moneintro{
+    padding: 80px px;
+}
+
+#Moneintro h1{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #7d8396;
+}
+
+#Moneintro h3{
+    color: #7d8396;
+}
+
+#Moneintro p{
+    color: #7d8396;
+}
+#Moneintro line{
+    border-top: 1px solid rgba(0,0,0,0.09);
+}
+#Moneintro2{
+    margin-top: 60px;
+    padding: 10px 0px;
+    background: rgb(248,248,248);
+}
+#Moneintro2 p{
+    color: #7d8396;
+    font-size: 1vw;
+}
